@@ -1,6 +1,6 @@
 function gaborArray = gaborFilterBank(u,v,m,n)
 
-% GABORFILTERBANK generates a custum Gabor filter bank. 
+% GABORFILTERBANK generates a custum Gabor filter bank
 % It creates a u by v cell array, whose elements are m by n matrices; 
 % each matrix being a 2-D Gabor filter.
 % 
